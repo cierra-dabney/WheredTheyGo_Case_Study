@@ -97,3 +97,9 @@ However, when I began myself how the experience could be improved for users, I c
 Although I don’t see myself entering the content creator space on Instagram, my informal user research demonstrated that "Where’dTheyGo?" addresses a real need. Ultimately, this project reinforced the importance of solving underlying user problems rather focusing solely on features. Users care more about understanding their engagement trends to support growth intentionally. 
 
 Check it out here at: https://follower-compass.lovable.app
+
+## Voiceover Demo
+
+---
+
+https://www.loom.com/share/7de83590193c4dd6ad28b3f803d7d8b6
