@@ -83,11 +83,7 @@ Users found the information gathered by Instagram helpful but not useful for gro
 | Phase 1 | Phase 2 | Phase 3 | Phase 4 |
 | --- | --- | --- | --- |
 | MVP | Platform Foundation | Intelligence | Expansion |
-| Current State | Calendar and Reminder Feature,
-Instagram API Integration,
-Automated Data Imports, Screen Reader Support, Adjustable Text Sizing, Colorblind-friendly Data Visualizations | Trend Forecasting,
-Follower Churn Prediction,
-Content Performance Tracking | TikTok, LinkedIn, YouTube |
+| Current State | Calendar and Reminder Feature, Instagram API Integration, Automated Data Imports, Screen Reader Support, Adjustable Text Sizing, Colorblind-friendly Data Visualizations | Trend Forecasting, Follower Churn Prediction, Content Performance Tracking | TikTok, LinkedIn, YouTube |
 
 ## Reflection
 
