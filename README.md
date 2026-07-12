@@ -1,4 +1,4 @@
-# “Where’dTheyGo?” Case Study
+# “Where’dTheyGo?” Case Study 
 
 Written by: Cierra S. Dabney
 
