@@ -89,8 +89,10 @@ Users found the information gathered by Instagram helpful but not useful for gro
 
 ---
 
-Throughout this project, I had to take a step back from being technically focused and really place myself in the users shoes. Even when I explored Instagram’s analytics, I originally didn’t see anything that needed to be changed. “It works fine,” was my first thought.
+Throughout this project, I had to take a step back from being technically focused and really place myself in the users shoes. Even when I explored Instagram’s analytics, I originally didn’t see anything that needed to be changed. “It looks fine,” was my first thought.
 
-However, when I began myself how the experience could be improved for users, I came to the understanding that having data is only valuable if it helps people make better decisions. Without actionable insights, data is simply information being collected.
+However, when I began myself how the experience could be improved for users, I came to the understanding that having data is only valuable if it helps people make better decisions. Without actionable insights, data is simply information being collected and at times rendered useless.
 
-Although I don’t see myself entering the content creator space on Instagram, my informal user research demonstrated that Where’dTheyGo addresses a real need. Ultimately, this project reinforced the importance of solving underlying user problems rather focusing solely on features. Users care more about understanding their engagement trends to support growth intentionally.
+Although I don’t see myself entering the content creator space on Instagram, my informal user research demonstrated that "Where’dTheyGo?" addresses a real need. Ultimately, this project reinforced the importance of solving underlying user problems rather focusing solely on features. Users care more about understanding their engagement trends to support growth intentionally.
+
+Check it out here at: https://follower-compass.lovable.app
